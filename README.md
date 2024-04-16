@@ -13,6 +13,7 @@ Continuação do antigo projeto [Meu-IFMG-WebScrapping](https://github.com/Kinda
 ## Explicação
 
 - Ponte entre o Python e o C#
+  
 Em [pythonScripts](https://github.com/KindaSnoowy/meuifmg-discord/tree/main/pythonScripts) maincall.py pode ser executado pelo terminal com o comando `python maincall.py <ra> <senha>` que printa diretamente o json carregando as notas do usuário requisitado. A partir daí [pythonCaller.cs](https://github.com/KindaSnoowy/meuifmg-discord/blob/main/modules/pythonCaller.cs) é o responsável por executar um processo dentro do .net e retornar a string para o código.
 
 ## Setup
