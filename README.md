@@ -7,14 +7,16 @@ Continuação do antigo projeto [Meu-IFMG-WebScrapping](https://github.com/Kinda
 
 ## Uso
 !register -> Inicia a tarefa de registro pela DM do usuário.
+
 !forcesync -> Sincroniza as notas do banco de dados com as do MeuIFMG
+
 !notas -> Inicia o menu das Notas
 
 ## Explicação
 
 - Ponte entre o Python e o C#
   
-Em [pythonScripts](https://github.com/KindaSnoowy/meuifmg-discord/tree/main/pythonScripts) maincall.py pode ser executado pelo terminal com o comando `python maincall.py <ra> <senha>` que printa diretamente o json carregando as notas do usuário requisitado. A partir daí [pythonCaller.cs](https://github.com/KindaSnoowy/meuifmg-discord/blob/main/modules/pythonCaller.cs) é o responsável por executar um processo dentro do .net e retornar a string para o código.
+  Em [pythonScripts](https://github.com/KindaSnoowy/meuifmg-discord/tree/main/pythonScripts) maincall.py pode ser executado pelo terminal com o comando `python maincall.py <ra> <senha>` que printa diretamente o json carregando as notas do usuário requisitado. A partir daí [pythonCaller.cs](https://github.com/KindaSnoowy/meuifmg-discord/blob/main/modules/pythonCaller.cs) é o responsável por executar um processo dentro do .net e retornar a string para o código.
 
 ## Setup
 1) Baixe o .Net 6 e o Python em sua última versão.
@@ -38,4 +40,5 @@ Em [pythonScripts](https://github.com/KindaSnoowy/meuifmg-discord/tree/main/pyth
 
 ## To-do
 -> Sincronização automática periodica com o MeuIFMG (atualmente é somente manual pelo !forcesync).
+
 -> Notificação em alteração de notas.
