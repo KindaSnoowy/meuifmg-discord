@@ -12,6 +12,11 @@ Continuação do antigo projeto [Meu-IFMG-WebScrapping](https://github.com/Kinda
 
 !notas -> Inicia o menu das Notas
 
+## Demonstração
+
+Clica na imagem!!!! :D
+[![Showcase](http://img.youtube.com/vi/Ktoj8r_ipMU/0.jpg)](http://www.youtube.com/watch?v=Ktoj8r_ipMU "god.mp4")
+
 ## Explicação
 
 - Ponte entre o Python e o C#
