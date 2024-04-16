@@ -1,0 +1,84 @@
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\MeuIFMG_DiscordBot.exe
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\MeuIFMG_DiscordBot.deps.json
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\MeuIFMG_DiscordBot.runtimeconfig.json
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\MeuIFMG_DiscordBot.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\MeuIFMG_DiscordBot.pdb
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.csproj.AssemblyReference.cache
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.AssemblyInfoInputs.cache
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.AssemblyInfo.cs
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.csproj.CopyComplete
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\refint\MeuIFMG_DiscordBot.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.pdb
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\MeuIFMG_DiscordBot.genruntimeconfig.cache
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\obj\Debug\net6.0\ref\MeuIFMG_DiscordBot.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\MeuIFMG_DiscordBot.exe
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\MeuIFMG_DiscordBot.deps.json
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\MeuIFMG_DiscordBot.runtimeconfig.json
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\MeuIFMG_DiscordBot.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\MeuIFMG_DiscordBot.pdb
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Python.Runtime.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\System.Reactive.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.csproj.AssemblyReference.cache
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.AssemblyInfoInputs.cache
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.AssemblyInfo.cs
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.csproj.CopyComplete
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\refint\MeuIFMG_DiscordBot.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.pdb
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\MeuIFMG_DiscordBot.genruntimeconfig.cache
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\obj\Debug\net6.0\ref\MeuIFMG_DiscordBot.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Microsoft.Dynamic.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Microsoft.Scripting.Metadata.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Microsoft.Scripting.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\IronPython.Modules.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\IronPython.SQLite.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\IronPython.Wpf.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\IronPython.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\Mono.Unix.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\android-arm\native\libMono.Unix.so
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\android-arm64\native\libMono.Unix.so
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\android-x64\native\libMono.Unix.so
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\android-x86\native\libMono.Unix.so
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\ios-arm\native\libMono.Unix.a
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\ios-arm64\native\libMono.Unix.a
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\ios-armv7s\native\libMono.Unix.a
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\iossimulator-arm64\native\libMono.Unix.a
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\iossimulator-x64\native\libMono.Unix.a
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\linux-arm\native\libMono.Unix.so
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\linux-arm64\native\libMono.Unix.so
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libMono.Unix.so
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libMono.Unix.a
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libMono.Unix.a
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\osx-arm64\native\libMono.Unix.dylib
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libMono.Unix.dylib
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\tvos-arm64\native\libMono.Unix.a
+C:\Users\gabby\Documents\Coding Projects\C#\MeuIFMG Bot\MeuIFMG_DiscordBot - Copy\bin\Debug\net6.0\runtimes\tvossimulator-x64\native\libMono.Unix.a
