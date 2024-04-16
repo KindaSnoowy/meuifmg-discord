@@ -14,8 +14,7 @@ Continuação do antigo projeto [Meu-IFMG-WebScrapping](https://github.com/Kinda
 
 ## Demonstração
 
-Clica na imagem!!!! :D
-[![Showcase](http://img.youtube.com/vi/Ktoj8r_ipMU/0.jpg)](http://www.youtube.com/watch?v=Ktoj8r_ipMU "god.mp4")
+Veja este [vídeo](http://www.youtube.com/watch?v=Ktoj8r_ipMU).
 
 ## Explicação
 
