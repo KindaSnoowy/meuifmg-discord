@@ -7,8 +7,7 @@ using MeuIFMG_DiscordBot.models;
 using MeuIFMG_DiscordBot.modules;
 
 // Executa o processo do python pelo c#, o script em python printa todo o json em string
-// e lê-mos por aqui.
-
+// e pegamos por aqui.
 public static class PythonCaller {
    private static async Task<string> PythonRun(string file, string args)
     {
