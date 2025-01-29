@@ -1,7 +1,7 @@
 # MeuIFMG - Discord bot
 
 ## Resumo
-Projeto feito em .Net 6 e Discord.Net para um bot no Discord que exibe as notas do usuário diretamente do site [MeuIFMG](https://meu.ifmg.edu.br).
+Projeto feito em .Net 6, Discord.Net e Python para um bot no Discord que exibe as notas do usuário diretamente do site [MeuIFMG](https://meu.ifmg.edu.br).
 
 Continuação do antigo projeto [Meu-IFMG-WebScrapping](https://github.com/KindaSnoowy/Meu-IFMG-WebScrapping), anteriormente feito inteiramente em Python e menos completo.
 
